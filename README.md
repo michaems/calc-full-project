@@ -1,2 +1,2 @@
 # calc-full-project
-Practice CMake.
+This project is created to practice Modern CMake for C++.s
