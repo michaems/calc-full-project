@@ -1,5 +1,8 @@
+
 add_library (
     calc
-    OBJECT
+    STATIC
     calc.cpp
 )
+
+target_include_directories(calc PUBLIC include/calc)
