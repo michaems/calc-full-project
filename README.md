@@ -5,4 +5,4 @@ This project is created to practice Modern CMake for C++.s
 2. Save that function into object file. -done
 
 3. Add gtest to project -done
-4. Create tests to test the functions.
+4. Create tests to test the functions. -done
